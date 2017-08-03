@@ -1,0 +1,12 @@
+html {
+    overflow-y: hidden;
+}
+
+html, body, #app, #app div, #app div div, #app div div div, #app div div div div, #app div div div div div{
+    height: 100%;
+}
+
+body{
+    background-color: #bbbbbb;
+    padding-right: 0px !important;
+}
